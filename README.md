@@ -1,4 +1,4 @@
-# Liskov's Substitution Principle
+# Liskov's Substitution Principle c
 
 ## Learning Goals
 
